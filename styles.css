@@ -1,0 +1,23 @@
+#Personas-and-Storyboarding {
+    background-color: lightblue;
+  }
+  img:not(.Sketch-item):not(.Board1and2-item):not(.Board3and4-item):not(.Board5and6-item):not(.Board7and8-item):not(.Board9and10-item) {
+    width: 500px;
+    margin-left: 50px; 
+  }
+
+  img:not(.Persona1-item):not(.Persona2-item):not(.Sketch-item){
+    width: 1000px;
+    margin-left: 50px; 
+    margin-bottom: 20px;
+  }
+  img:not(.Persona1-item):not(.Persona2-item):not(.Board1and2-item):not(.Board3and4-item):not(.Board5and6-item):not(.Board7and8-item):not(.Board9and10-item) {
+    width: 800px;
+    margin-left: 50px; 
+  }
+
+  .Storyboard-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
